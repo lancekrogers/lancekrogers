@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Consulting-Technical%20Strategy-informational?style=flat&logo=slides&logoColor=white&color=795548">
   <img src="https://img.shields.io/badge/Focus-System%20Modernization-informational?style=flat&logo=serverless&logoColor=white&color=FFA000">
   <img src="https://img.shields.io/badge/Blockchain-Smart%20Contracts-informational?style=flat&logo=solidity&logoColor=white&color=3C3C3D">
+  <img src="https://img.shields.io/badge/AI-LLM%20Engineer-informational?style=flat&logo=openai&logoColor=white&color=412991">
   <img src="https://img.shields.io/badge/Availability-Open%20to%20Opportunities-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2">
 </p>
 
