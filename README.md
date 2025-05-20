@@ -75,7 +75,7 @@ With 9+ years of experience spanning startups and enterprises, I bring a strateg
 
 - [LinkedIn](https://www.linkedin.com/in/lancekrogers/)
 - [GitHub](https://github.com/lancekrogers)
-- [Email](mailto:lancekrogers@gmail.com)
+- [Email](mailto:lancekrogers+github@gmail.com)
 
 ---
 
