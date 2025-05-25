@@ -51,7 +51,7 @@ With 9+ years of experience spanning startups and enterprises, I bring a strateg
 ### 🚀 Key Projects & Initiatives
 
 - [**Swapblocks Protocol (Archived)**](https://github.com/lancekrogers/Swapblocks) — Multi-layer validation blockchain protocol for secure, regulated real-world asset flows.
-- **Guild Agent Framework** (Private R&D) — Modular Golang agent framework focused on cost optimization, model flexibility, and human-in-the-loop planning for complex workflows.
+- [**Guild Agent Framework**](https://github.com/Blockhead-Consulting/guild-framework) (Private R&D) — Modular Golang agent framework focused on cost optimization, model flexibility, and human-in-the-loop planning for complex workflows.
 - **Algo Scales** (Private) — Terminal-based algorithm mastery platform featuring curated patterns, gamified learning modes, and AI-driven hints for technical interview preparation.
 - [**ShinySwap**](https://shinyswap.io) (Paused) — Decentralized peer-to-peer marketplace for trading precious metals with secure escrow and non-custodial principles.
 - [**Blocksnap**](https://github.com/jaydenwindle/blocksnap) — NFT transaction aggregation and pattern analysis platform (EthDenver hackathon, 3rd place community winner).
