@@ -89,7 +89,7 @@ func main() {
  }
  p.Skills = []string{"Go", "Python", "Eth", "Solidity", "Distributed Sys", "AI/ML"}
 
- _ = p // silence "unused variable" warning
+ _ = p
 }
 ```
 
