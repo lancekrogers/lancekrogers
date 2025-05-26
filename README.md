@@ -43,7 +43,7 @@ func main() {
 
 ## 📞 Available for New Opportunities
 
-I’m a builder and a doer. Since my last contract, I’ve built an overland vehicle, finished my basement, and shipped multiple software projects. I’m now looking for my next role or contract—if you’re seeking someone who gets things done rather than just grinding leetcode, reach out. Particularly interested in blockchain and AI-focused roles.
+I’m a builder and a doer. Since my last contract, I’ve built an overland vehicle, finished my basement, and shipped multiple software projects. I’m now looking for my next role or contract. If you’re seeking someone who gets things done rather than just grinding leetcode, reach out. Particularly interested in blockchain and AI-focused roles.
 
 <!-- - 💼 [blockhead.consulting](https://blockhead.consulting) -->
 
