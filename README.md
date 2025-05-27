@@ -4,7 +4,9 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" alt="Ethereum">
+
   <img src="https://img.shields.io/badge/AI%2FML-00A67E?style=flat&logo=openai&logoColor=white" alt="AI/ML">
+
 </p>
 
 ```go
@@ -106,12 +108,8 @@ func main() {
 
 ## 📞 Available for New Opportunities
 
-## 📞 Available for New Opportunities
-
 I’m a builder and a doer. Since my last contract, I’ve built an overland vehicle, finished my basement, and shipped multiple software projects.
 
 I’m now looking for my **next role or contract**. If you’re seeking someone who gets things done rather than just grinding LeetCode, reach out! I’m particularly interested in **blockchain and AI-focused roles**.
 
 <!-- - 💼 [blockhead.consulting](https://blockhead.consulting) -->
-
-> “I solve problems and automate systems other people don’t realize exist."
