@@ -1,8 +1,4 @@
-# Lance Rogers
-
-> Building AI systems that do what I want, the way I want it done.
-
-Infrastructure for autonomous companies.
+Building AI systems that do what I want, the way I want it done.
 
 **Guild · Fest · Brainyard · Anywhr**
 
