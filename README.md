@@ -4,44 +4,50 @@ Building AI systems that do what I want, the way I want them to.
 
 ## What I'm Building
 
-### Festival Methodology
-**AI-native project management that scales autonomous operations**
+### Festival Methodology + fest CLI
+**File-based agent operating system**
 
-A goal-oriented framework that transforms high-level objectives into executable work AI agents can complete independently. Festival bridges the gap between what you want to build and what AI can actually execute—maintaining context, tracking decisions, and enabling agents to work autonomously for days instead of minutes.
+Most AI tools give agents a chat window and hope for the best. Festival gives them a structured workspace they can actually navigate.
 
-**Key innovations:**
-- **Hierarchical goal decomposition** – Festival/Phase/Sequence structure with measurable KPIs at every level
-- **Context preservation** – Decisions and rationale maintained across sessions in CONTEXT.md
-- **Autonomy levels** – Tasks marked High/Medium/Low so agents know when to proceed vs. ask for help
-- **Quality gates** – Configurable evaluation frameworks ensure work meets standards before moving forward
+It's a hierarchical, file-based methodology where agents learn how to operate through `fest understand` commands, then use `fest execute` and `fest next` to know what to do at each step. The methodology itself teaches agents:
 
-**[fest CLI](https://github.com/lancekrogers/festival-methodology/tree/main/fest)** – Production-grade Go tool with:
-- SHA256 checksums for file integrity
-- Smart updates (only changed files)
-- Backup support before operations
-- Token counting for LLM cost estimation
-- Config repos for templates/policies
-- Extension system for custom commands
-- Festival index generation for tool integration
+- What files to read (FESTIVAL_GOAL.md, CONTEXT.md, current task)
+- When to read them (just-in-time, not upfront)
+- How to make decisions (autonomy levels: High/Medium/Low)
+- Where to document progress (CONTEXT.md for decisions, TODO.md for status)
+- When work is actually complete (quality gates)
+
+**[fest CLI](https://github.com/lancekrogers/festival-methodology/tree/main/fest)** is the agent interface:
+
+- `fest understand` – Teaches agents the methodology (workflow, structure, rules)
+- `fest execute` – Shows agents what to do now
+- `fest next` – Tells agents what comes after current task
+- File integrity via SHA256 checksums
+- Smart navigation (fgo) between festivals and projects
+- Config repos for team-specific templates/policies
+- Quality gate automation
+- Plugin system for custom commands
+
+**The breakthrough:** Agents can work autonomously for days instead of minutes because the file structure + CLI commands replace constant human guidance. The methodology is self-documenting through `fest understand`, and the hierarchy (Festival → Phase → Sequence → Task) keeps them oriented.
 
 ---
 
 ### Agent Orchestration Infrastructure
-**Breaking the linear constraint in AI tooling**
+**Breaking the linear constraint**
 
-Collaborative configuration systems that enable nonlinear scaling of autonomous operations. Moving beyond single-agent, single-task paradigms to infrastructure where multiple agents coordinate on complex, multi-stage work.
+Building infrastructure where multiple agents coordinate on complex, multi-stage work. Moving beyond "one agent, one task" to systems that enable nonlinear scaling of autonomous operations.
 
 ---
 
 ### Claude Code Go SDK
 **First unofficial SDK for Anthropic's Claude Code CLI (27⭐)**
 
-Built in <1 week post-launch. Taught me that autonomous agents need fundamentally different infrastructure than human-driven workflows.
+Built in <1 week post-launch. Taught me that autonomous agents need fundamentally different infrastructure than human-driven workflows—which led directly to Festival Methodology.
 
 ---
 
 **Currently:** Deep in production agent systems. Building infrastructure for teams of 1000+ agents that actually work together.
 
-**Focus:** Agent orchestration • Collaborative configuration • Autonomous execution at scale
+**Focus:** File-based agent coordination • Self-documenting methodologies • Autonomous execution at scale
 
 🌐 [lance@blockhead.consulting](mailto:lance@blockhead.consulting)
