@@ -17,12 +17,4 @@ Go and Python. 10+ years building backend systems, developer tooling, blockchain
 
 ---
 
-### Stacks
-
-**Primary:** Go · Python
-
-**Also:** JavaScript · Lua · Vim Script · TypeScript · Jupyter Notebook · Solidity · CSS · Rust
-
----
-
 *[Full project catalog →](https://github.com/lancekrogers/work-index)*
