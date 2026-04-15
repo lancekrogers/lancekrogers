@@ -1,4 +1,4 @@
-## Building Cognitive Infrastructure for Ambitious Work
+## Building Modular AI Tooling for Organizing Intelligent Effort at Scale
 
 Go and Python. 10+ years building backend systems, developer tooling, blockchain infrastructure, and AI execution platforms.
 
