@@ -12,7 +12,7 @@ Contact: [lance@blockhead.consulting](mailto:lance@blockhead.consulting) · [@LK
 
 | Category | Projects |
 |----------|----------|
-| [AI](https://github.com/lancekrogers/work-index/blob/main/categories/ai.md) | 21 |
+| [AI](https://github.com/lancekrogers/work-index/blob/main/categories/ai.md) | 22 |
 | [Backend & Infrastructure](https://github.com/lancekrogers/work-index/blob/main/categories/backend-infra.md) | 7 |
 | [Blockchain & Fintech](https://github.com/lancekrogers/work-index/blob/main/categories/blockchain-fintech.md) | 19 |
 | [Developer Tools](https://github.com/lancekrogers/work-index/blob/main/categories/devtools.md) | 15 |
