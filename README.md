@@ -14,7 +14,7 @@ Contact: [lance@blockhead.consulting](mailto:lance@blockhead.consulting) · [@LK
 |----------|----------|
 | [AI](https://github.com/lancekrogers/work-index/blob/main/categories/ai.md) | 22 |
 | [Backend & Infrastructure](https://github.com/lancekrogers/work-index/blob/main/categories/backend-infra.md) | 7 |
-| [Blockchain & Fintech](https://github.com/lancekrogers/work-index/blob/main/categories/blockchain-fintech.md) | 19 |
+| [Blockchain & Fintech](https://github.com/lancekrogers/work-index/blob/main/categories/blockchain-fintech.md) | 18 |
 | [Developer Tools](https://github.com/lancekrogers/work-index/blob/main/categories/devtools.md) | 15 |
 | [Festival Campaigns](https://github.com/lancekrogers/work-index/blob/main/categories/festival-campaigns.md) | 2 |
 | [Vim & Neovim Plugins](https://github.com/lancekrogers/work-index/blob/main/categories/vim-plugins.md) | 6 |
