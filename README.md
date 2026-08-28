@@ -1,6 +1,6 @@
 ##  Applied AI engineer, +11 years experience system engineering
 
-I build the execution layer around coding agents — persistent multi-session plans, Go agent SDKs, local voice, campaign workspaces — on ten years of backend, fintech, and developer tooling.
+I build the execution layer around coding agents - persistent multi-session plans, Go agent SDKs, local voice, multi-project context workspaces - on ten years of backend, fintech, and developer tooling.
 
 ---
 
