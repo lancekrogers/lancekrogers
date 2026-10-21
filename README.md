@@ -1,12 +1,7 @@
-##  Applied AI engineer, +11 years experience system engineering
-
-I build the execution layer around coding agents - persistent multi-session plans, Go agent SDKs, local voice, multi-project context workspaces - on 11 years of backend, fintech, and developer tooling experience.
+##  Applied AI engineer
 
 ---
 
-Contact: [lance@blockhead.consulting](mailto:lance@blockhead.consulting) · [@LKRBuilds on X](https://x.com/LKRBuilds) · [LinkedIn](https://linkedin.com/in/lancekrogers)
-
----
 
 ### Curated Projects
 
@@ -18,6 +13,10 @@ Contact: [lance@blockhead.consulting](mailto:lance@blockhead.consulting) · [@LK
 | [Developer Tools](https://github.com/lancekrogers/work-index/blob/main/categories/devtools.md) | CLIs, scaffolding, editor tooling | 19 |
 | [Festival Camp Workspaces](https://github.com/lancekrogers/work-index/blob/main/categories/festival-campaigns.md) | Explore, design, and execution records | 3 |
 | [Vim & Neovim Plugins](https://github.com/lancekrogers/work-index/blob/main/categories/vim-plugins.md) | Editor plugins | 6 |
+
+---
+
+Contact: [lance@blockhead.consulting](mailto:lance@blockhead.consulting) · [@LKRBuilds on X](https://x.com/LKRBuilds) · [LinkedIn](https://linkedin.com/in/lancekrogers)
 
 ---
 
